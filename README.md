@@ -67,8 +67,8 @@ Display original color image, histogram, enhanced image, and enhanced histogram 
 ---
 
 ### Developed By:
-**Name:** Farzana M  
-**Register No:** 212225040087  
+**Name:** Subashini K
+**Register No:** 212225240160
 
 ---
 ## Program
